@@ -40,7 +40,12 @@
       "feedback_system": "None",
       "titleSuffix": "Security documentation"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "titleSuffix": {
+        "MSRC/**/**.md": "Security",
+        "SDL/**/**.md": "Security Documentation"
+      }
+    },
     "template": [],
     "dest": "security-docs",
     "markdownEngineName": "markdig"
