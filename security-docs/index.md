@@ -1,11 +1,11 @@
 ---
-layout: LandingPage
+layout: Conceptual
 title: Security documentation
 description: This library of content provides a set of documents and resources to help you address your security needs.
 ms.date: 12/03/2018
 ms.service: security
 ms.author: bcowper
-ms.topic: article
+ms.topic: conceptual
 ---
 
 # Security documentation
